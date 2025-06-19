@@ -28,11 +28,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-![Jagmohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautamjag7&show_icons=true&theme=tokyonight) 
-![](https://nirzak-streak-stats.vercel.app/?user=gautamjag7&theme=dark&hide_border=false)<br/>
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautamjag7&show_icons=true&theme=tokyonight) 
+![](https://nirzak-streak-stats.vercel.app/?user=rohitkumar9699&theme=dark&hide_border=false)<br/>
 
 ### 🧠 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/jagmohan_g?theme=dark&font=baloo)](https://leetcode.com/jagmohan_g/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/jagmohan_g?theme=dark&font=baloo)](https://leetcode.com/rohit_kumar_9699/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gautamjag7&icon=0&color=0)](https://visitcount.itsvg.in)
