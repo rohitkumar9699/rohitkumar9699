@@ -2,12 +2,10 @@
 <br>👋 Hello! I’m Jagmohan Gautam, an aspiring software developer currently in my final year of B.Tech. I’m passionate about solving real-world problems with code and constantly improving my skills in system design, backend development, and Data Structures & Algorithms (DSA). I enjoy working with technologies like C++, Python, JavaScript, and frameworks like Node.js and Flask.<br><br><br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagmohan-gautam) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/jagmoha81348115) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jagmohangautam7@gmail.com) 
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/gautamjag777)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=flat&logo=leetcode&logoColor=white)](https://www.leetcode.com/jagmohan_g)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46.svg?style=flat&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/jagmox9kg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-kumar-83b147243) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rk94523386@gmail.com) 
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/rohit_kumar71)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23007ACC.svg?style=flat&logo=leetcode&logoColor=white)](https://www.leetcode.com/rohit_kumar_9699)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
