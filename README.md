@@ -32,7 +32,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=rohitkumar9699&theme=dark&hide_border=false)<br/>
 
 ### 🧠 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/jagmohan_g?theme=dark&font=baloo)](https://leetcode.com/rohit_kumar_9699/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/rohit_kumar_9699?theme=dark&font=baloo)](https://leetcode.com/rohit_kumar_9699/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gautamjag7&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rohit_kumar_9699&icon=0&color=0)](https://visitcount.itsvg.in)
