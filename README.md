@@ -28,7 +28,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 # 📊 GitHub Stats:
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautamjag7&show_icons=true&theme=tokyonight) 
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitkumar9699&show_icons=true&theme=tokyonight) 
 ![](https://nirzak-streak-stats.vercel.app/?user=rohitkumar9699&theme=dark&hide_border=false)<br/>
 
 ### 🧠 LeetCode Stats
