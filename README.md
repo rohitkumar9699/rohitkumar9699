@@ -1,5 +1,5 @@
 # 💫 Hello! I’m Rohit kumar
-<br>👋 Hello! I’m Jagmohan Gautam, an aspiring software developer currently in my final year of B.Tech. I’m passionate about solving real-world problems with code and constantly improving my skills in system design, backend development, and Data Structures & Algorithms (DSA). I enjoy working with technologies like C++, Python, JavaScript, and frameworks like Node.js and Flask.<br><br><br>
+<br>👋 I’m looking for a role where I can apply and grow my backend development skills by building robust, scalable APIs and full-stack applications. With experience in Python, Django, Node.js, and database systems like PostgreSQL and MongoDB, I enjoy designing efficient architectures and solving complex backend challenges. I have a solid understanding of data structures, algorithms, and software engineering principles, which helps me write clean, maintainable code. I’m excited to work in an environment that values performance, reliability, and technical ownership. Contributing to meaningful backend systems while collaborating with a skilled team is exactly the kind of opportunity I’m seeking....<br><br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-kumar-83b147243) 
