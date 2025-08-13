@@ -36,3 +36,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rohit_kumar_9699&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7540625728935608"
+     crossorigin="anonymous"></script>
